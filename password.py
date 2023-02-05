@@ -4,7 +4,7 @@ from outils import *
 import hashlib
 import random
 import string
-import json
+
 
 charactere = string.ascii_uppercase + string.ascii_lowercase + string.digits + string.punctuation
 
